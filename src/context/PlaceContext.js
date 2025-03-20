@@ -17,6 +17,7 @@ const fetchPlaces = async () => {
 
 const PlaceProvider = ({ children }) => {
     const [places, setPlaces] = useState([]);
+    places.sort((a, b) => a.type- b.type);
 
     useEffect(() => {
         const getPlaces = async () => {
