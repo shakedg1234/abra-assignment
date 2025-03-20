@@ -1,0 +1,10 @@
+.list{
+    padding: 0;
+    margin: 0;
+    display: absulute;
+    z-index: 1000
+    ;
+}
+.map {
+    z-index: -1;
+}

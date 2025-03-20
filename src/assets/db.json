@@ -1,0 +1,34 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "abra",
+      "address": "HaPnina St 8, Ra'anana",
+      "type": "office",
+      "cordinate": {
+        "lat": 32.175713,
+        "lng": 34.889978
+      }
+    },
+    {
+      "id": 2,
+      "name": "shaked house",
+      "address": "HaPnina St 8, Ra'anana",
+      "type": "office",
+      "cordinate": {
+        "lat": 32.038907,
+        "lng": 34.889978
+      }
+    },
+    {
+      "id": "215f",
+      "name": "aa",
+      "address": "aaa",
+      "type": "Restaurant",
+      "cordinate": {
+        "lat": 32.57,
+        "lng": 34.91
+      }
+    }
+  ]
+}

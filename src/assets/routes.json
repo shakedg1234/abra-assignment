@@ -1,0 +1,12 @@
+{
+    "/api/Places": {
+      "GET": {
+        "action": "db.places"
+      },
+      "POST": {
+        "action": "db.articles.push(req.body)",
+        "path": "/api/articles"
+      }
+    }
+    }
+  

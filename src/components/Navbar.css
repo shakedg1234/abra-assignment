@@ -1,0 +1,25 @@
+.mynavbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #343a40;
+    color: white;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.mynavbar a {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.mynavbar button {
+    padding: 8px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+}

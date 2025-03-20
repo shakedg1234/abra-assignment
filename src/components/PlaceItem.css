@@ -1,0 +1,25 @@
+.carditem{
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 250px;
+    transition: transform 0.3s ease;
+}
+.carditem:hover{
+    transform: translateY(-5px);
+}
+.carditem p{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}   
+
+.pet-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.pet-info {
+    color: #555;
+}
